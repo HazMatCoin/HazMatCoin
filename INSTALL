@@ -1,0 +1,9 @@
+Building HazMatCoin
+
+See doc/readme-qt.rst for instructions on building HazMatCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HazMatCoin.
+
+See doc/build-*.txt for instructions on building HazMatCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HazMatCoin.
